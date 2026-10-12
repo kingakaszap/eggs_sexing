@@ -33,11 +33,11 @@ so i assumed its ok.
 - Script in [scripts/demultiplex.sh](https://github.com/kingakaszap/eggs_sexing/blob/main/scripts/demultiplex.sh)
 - Summary:
   
-811912772 total sequences
-4466232 barcode not found drops (0.6%)
-16188653 low quality read drops (2.0%)
-13458996 RAD cutsite not found drops (1.7%)
-777798891 retained reads (95.8%)
+811912772 total sequences \
+4466232 barcode not found drops (0.6%) \
+16188653 low quality read drops (2.0%) \
+13458996 RAD cutsite not found drops (1.7%) \
+777798891 retained reads (95.8%) \ 
 
 - Log file in
 
