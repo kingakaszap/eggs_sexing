@@ -1,0 +1,2370 @@
+/var/spool/slurm/d/job65394190/slurm_script: line 19: ../software/miniconda3/etc/profile.d/conda.sh: No such file or directory
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 38256). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 104 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-126.fq.gz
+Output:   ../trimmed_sex_eggs/E25-126_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14997039
+Reads with adapters:                6343670 (42.3%)
+Reads too short:                       3043 (0.0%)
+Reads written (passing filters):   14993996 (100.0%)
+Reads with poly-G/C trimmed:         283456 (1.9%)
+  Poly-G/C bases removed:           1179660
+
+Report: ../trimmed_sex_eggs/E25-126.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-126.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 33698). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 139 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-127.fq.gz
+Output:   ../trimmed_sex_eggs/E25-127_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             15795156
+Reads with adapters:                6647348 (42.1%)
+Reads too short:                       3765 (0.0%)
+Reads written (passing filters):   15791391 (100.0%)
+Reads with poly-G/C trimmed:         302966 (1.9%)
+  Poly-G/C bases removed:           1264358
+
+Report: ../trimmed_sex_eggs/E25-127.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-127.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 37846). Second best hit was Nextera (count: 25).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 182 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-128.fq.gz
+Output:   ../trimmed_sex_eggs/E25-128_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14052076
+Reads with adapters:                5856160 (41.7%)
+Reads too short:                       3124 (0.0%)
+Reads written (passing filters):   14048952 (100.0%)
+Reads with poly-G/C trimmed:         261381 (1.9%)
+  Poly-G/C bases removed:           1091031
+
+Report: ../trimmed_sex_eggs/E25-128.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-128.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 38693). Second best hit was Nextera (count: 9).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 123 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-130.fq.gz
+Output:   ../trimmed_sex_eggs/E25-130_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6274115
+Reads with adapters:                2685355 (42.8%)
+Reads too short:                       2166 (0.0%)
+Reads written (passing filters):    6271949 (100.0%)
+Reads with poly-G/C trimmed:         115407 (1.8%)
+  Poly-G/C bases removed:            483305
+
+Report: ../trimmed_sex_eggs/E25-130.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-130.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 63180). Second best hit was Nextera (count: 10).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 123 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-137.fq.gz
+Output:   ../trimmed_sex_eggs/E25-137_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14445419
+Reads with adapters:                6369351 (44.1%)
+Reads too short:                       2499 (0.0%)
+Reads written (passing filters):   14442920 (100.0%)
+Reads with poly-G/C trimmed:         267359 (1.9%)
+  Poly-G/C bases removed:           1109128
+
+Report: ../trimmed_sex_eggs/E25-137.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-137.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 23355). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 129 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-138.fq.gz
+Output:   ../trimmed_sex_eggs/E25-138_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             11417030
+Reads with adapters:                4786725 (41.9%)
+Reads too short:                       3579 (0.0%)
+Reads written (passing filters):   11413451 (100.0%)
+Reads with poly-G/C trimmed:         208898 (1.8%)
+  Poly-G/C bases removed:            873418
+
+Report: ../trimmed_sex_eggs/E25-138.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-138.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 28260). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 135 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-224.fq.gz
+Output:   ../trimmed_sex_eggs/E25-224_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1095719
+Reads with adapters:                 461182 (42.1%)
+Reads too short:                        359 (0.0%)
+Reads written (passing filters):    1095360 (100.0%)
+Reads with poly-G/C trimmed:          20279 (1.9%)
+  Poly-G/C bases removed:             84646
+
+Report: ../trimmed_sex_eggs/E25-224.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-224.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22279). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 183 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-225.fq.gz
+Output:   ../trimmed_sex_eggs/E25-225_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              2412086
+Reads with adapters:                1014749 (42.1%)
+Reads too short:                        462 (0.0%)
+Reads written (passing filters):    2411624 (100.0%)
+Reads with poly-G/C trimmed:          43272 (1.8%)
+  Poly-G/C bases removed:            184250
+
+Report: ../trimmed_sex_eggs/E25-225.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-225.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25822). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 108 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-226.fq.gz
+Output:   ../trimmed_sex_eggs/E25-226_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              4170996
+Reads with adapters:                1797174 (43.1%)
+Reads too short:                       1115 (0.0%)
+Reads written (passing filters):    4169881 (100.0%)
+Reads with poly-G/C trimmed:          72811 (1.7%)
+  Poly-G/C bases removed:            302426
+
+Report: ../trimmed_sex_eggs/E25-226.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-226.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 38806). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 149 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-227.fq.gz
+Output:   ../trimmed_sex_eggs/E25-227_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              4046814
+Reads with adapters:                1755237 (43.4%)
+Reads too short:                        998 (0.0%)
+Reads written (passing filters):    4045816 (100.0%)
+Reads with poly-G/C trimmed:          71013 (1.8%)
+  Poly-G/C bases removed:            298265
+
+Report: ../trimmed_sex_eggs/E25-227.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-227.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 39391). Second best hit was Nextera (count: 23).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 149 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-231.fq.gz
+Output:   ../trimmed_sex_eggs/E25-231_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3985561
+Reads with adapters:                1702409 (42.7%)
+Reads too short:                        902 (0.0%)
+Reads written (passing filters):    3984659 (100.0%)
+Reads with poly-G/C trimmed:          68626 (1.7%)
+  Poly-G/C bases removed:            290446
+
+Report: ../trimmed_sex_eggs/E25-231.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-231.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25679). Second best hit was Nextera (count: 28).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 151 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-232.fq.gz
+Output:   ../trimmed_sex_eggs/E25-232_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              4666144
+Reads with adapters:                1907655 (40.9%)
+Reads too short:                       1417 (0.0%)
+Reads written (passing filters):    4664727 (100.0%)
+Reads with poly-G/C trimmed:          83596 (1.8%)
+  Poly-G/C bases removed:            350109
+
+Report: ../trimmed_sex_eggs/E25-232.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-232.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 41610). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 189 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-234.fq.gz
+Output:   ../trimmed_sex_eggs/E25-234_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1382601
+Reads with adapters:                 592081 (42.8%)
+Reads too short:                        453 (0.0%)
+Reads written (passing filters):    1382148 (100.0%)
+Reads with poly-G/C trimmed:          24600 (1.8%)
+  Poly-G/C bases removed:            103439
+
+Report: ../trimmed_sex_eggs/E25-234.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-234.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 31355). Second best hit was Nextera (count: 8).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 175 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-250.fq.gz
+Output:   ../trimmed_sex_eggs/E25-250_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1205216
+Reads with adapters:                 514900 (42.7%)
+Reads too short:                        398 (0.0%)
+Reads written (passing filters):    1204818 (100.0%)
+Reads with poly-G/C trimmed:          21056 (1.7%)
+  Poly-G/C bases removed:             88401
+
+Report: ../trimmed_sex_eggs/E25-250.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-250.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 3489). Second best hit was Nextera (count: 0).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 13 of 113306 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-255.fq.gz
+Output:   ../trimmed_sex_eggs/E25-255_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               113306
+Reads with adapters:                  47466 (41.9%)
+Reads too short:                         35 (0.0%)
+Reads written (passing filters):     113271 (100.0%)
+Reads with poly-G/C trimmed:           2154 (1.9%)
+  Poly-G/C bases removed:              8656
+
+Report: ../trimmed_sex_eggs/E25-255.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-255.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 27005). Second best hit was Nextera (count: 19).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 163 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-270.fq.gz
+Output:   ../trimmed_sex_eggs/E25-270_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              8337484
+Reads with adapters:                3425419 (41.1%)
+Reads too short:                       1590 (0.0%)
+Reads written (passing filters):    8335894 (100.0%)
+Reads with poly-G/C trimmed:         151820 (1.8%)
+  Poly-G/C bases removed:            635057
+
+Report: ../trimmed_sex_eggs/E25-270.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-270.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22287). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 185 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-272.fq.gz
+Output:   ../trimmed_sex_eggs/E25-272_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3316351
+Reads with adapters:                1382308 (41.7%)
+Reads too short:                        592 (0.0%)
+Reads written (passing filters):    3315759 (100.0%)
+Reads with poly-G/C trimmed:          62305 (1.9%)
+  Poly-G/C bases removed:            259007
+
+Report: ../trimmed_sex_eggs/E25-272.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-272.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22550). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 131 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-280.fq.gz
+Output:   ../trimmed_sex_eggs/E25-280_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              2122191
+Reads with adapters:                 873577 (41.2%)
+Reads too short:                        355 (0.0%)
+Reads written (passing filters):    2121836 (100.0%)
+Reads with poly-G/C trimmed:          40779 (1.9%)
+  Poly-G/C bases removed:            169831
+
+Report: ../trimmed_sex_eggs/E25-280.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-280.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 21031). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 141 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-281.fq.gz
+Output:   ../trimmed_sex_eggs/E25-281_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6912849
+Reads with adapters:                2892749 (41.8%)
+Reads too short:                       1963 (0.0%)
+Reads written (passing filters):    6910886 (100.0%)
+Reads with poly-G/C trimmed:         127228 (1.8%)
+  Poly-G/C bases removed:            532773
+
+Report: ../trimmed_sex_eggs/E25-281.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-281.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 39794). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 151 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-296.fq.gz
+Output:   ../trimmed_sex_eggs/E25-296_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3552238
+Reads with adapters:                1514524 (42.6%)
+Reads too short:                       1076 (0.0%)
+Reads written (passing filters):    3551162 (100.0%)
+Reads with poly-G/C trimmed:          62333 (1.8%)
+  Poly-G/C bases removed:            262864
+
+Report: ../trimmed_sex_eggs/E25-296.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-296.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 35954). Second best hit was Nextera (count: 17).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 152 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-299.fq.gz
+Output:   ../trimmed_sex_eggs/E25-299_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13697240
+Reads with adapters:                5838462 (42.6%)
+Reads too short:                       2383 (0.0%)
+Reads written (passing filters):   13694857 (100.0%)
+Reads with poly-G/C trimmed:         250212 (1.8%)
+  Poly-G/C bases removed:           1053554
+
+Report: ../trimmed_sex_eggs/E25-299.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-299.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 12887). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 96 of 537287 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-302.fq.gz
+Output:   ../trimmed_sex_eggs/E25-302_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               537287
+Reads with adapters:                 220635 (41.1%)
+Reads too short:                        146 (0.0%)
+Reads written (passing filters):     537141 (100.0%)
+Reads with poly-G/C trimmed:          10150 (1.9%)
+  Poly-G/C bases removed:             43512
+
+Report: ../trimmed_sex_eggs/E25-302.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-302.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 23410). Second best hit was Nextera (count: 8).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 143 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-303.fq.gz
+Output:   ../trimmed_sex_eggs/E25-303_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1834223
+Reads with adapters:                 757091 (41.3%)
+Reads too short:                        385 (0.0%)
+Reads written (passing filters):    1833838 (100.0%)
+Reads with poly-G/C trimmed:          34150 (1.9%)
+  Poly-G/C bases removed:            144627
+
+Report: ../trimmed_sex_eggs/E25-303.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-303.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 17568). Second best hit was Nextera (count: 19).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 158 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-314.fq.gz
+Output:   ../trimmed_sex_eggs/E25-314_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13765881
+Reads with adapters:                5803696 (42.2%)
+Reads too short:                       2296 (0.0%)
+Reads written (passing filters):   13763585 (100.0%)
+Reads with poly-G/C trimmed:         247684 (1.8%)
+  Poly-G/C bases removed:           1039117
+
+Report: ../trimmed_sex_eggs/E25-314.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-314.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 19103). Second best hit was Nextera (count: 15).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 152 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-316.fq.gz
+Output:   ../trimmed_sex_eggs/E25-316_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12491808
+Reads with adapters:                5258068 (42.1%)
+Reads too short:                       3148 (0.0%)
+Reads written (passing filters):   12488660 (100.0%)
+Reads with poly-G/C trimmed:         228469 (1.8%)
+  Poly-G/C bases removed:            956622
+
+Report: ../trimmed_sex_eggs/E25-316.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-316.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25104). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 167 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-318.fq.gz
+Output:   ../trimmed_sex_eggs/E25-318_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12835219
+Reads with adapters:                5380040 (41.9%)
+Reads too short:                       3145 (0.0%)
+Reads written (passing filters):   12832074 (100.0%)
+Reads with poly-G/C trimmed:         234725 (1.8%)
+  Poly-G/C bases removed:            987833
+
+Report: ../trimmed_sex_eggs/E25-318.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-318.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25495). Second best hit was Nextera (count: 22).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 135 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-320.fq.gz
+Output:   ../trimmed_sex_eggs/E25-320_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              7061902
+Reads with adapters:                2931265 (41.5%)
+Reads too short:                       2072 (0.0%)
+Reads written (passing filters):    7059830 (100.0%)
+Reads with poly-G/C trimmed:         122725 (1.7%)
+  Poly-G/C bases removed:            511253
+
+Report: ../trimmed_sex_eggs/E25-320.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-320.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 18485). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 144 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-324.fq.gz
+Output:   ../trimmed_sex_eggs/E25-324_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              7482899
+Reads with adapters:                3010311 (40.2%)
+Reads too short:                       1535 (0.0%)
+Reads written (passing filters):    7481364 (100.0%)
+Reads with poly-G/C trimmed:         136347 (1.8%)
+  Poly-G/C bases removed:            569283
+
+Report: ../trimmed_sex_eggs/E25-324.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-324.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 18751). Second best hit was Nextera (count: 19).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 146 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-325.fq.gz
+Output:   ../trimmed_sex_eggs/E25-325_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6719720
+Reads with adapters:                2782467 (41.4%)
+Reads too short:                       1369 (0.0%)
+Reads written (passing filters):    6718351 (100.0%)
+Reads with poly-G/C trimmed:         126023 (1.9%)
+  Poly-G/C bases removed:            530439
+
+Report: ../trimmed_sex_eggs/E25-325.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-325.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 37339). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 137 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-326.fq.gz
+Output:   ../trimmed_sex_eggs/E25-326_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6277229
+Reads with adapters:                2730005 (43.5%)
+Reads too short:                       1313 (0.0%)
+Reads written (passing filters):    6275916 (100.0%)
+Reads with poly-G/C trimmed:         109301 (1.7%)
+  Poly-G/C bases removed:            454257
+
+Report: ../trimmed_sex_eggs/E25-326.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-326.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 34344). Second best hit was Nextera (count: 29).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 126 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-327.fq.gz
+Output:   ../trimmed_sex_eggs/E25-327_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3966896
+Reads with adapters:                1676389 (42.3%)
+Reads too short:                       1120 (0.0%)
+Reads written (passing filters):    3965776 (100.0%)
+Reads with poly-G/C trimmed:          75697 (1.9%)
+  Poly-G/C bases removed:            311619
+
+Report: ../trimmed_sex_eggs/E25-327.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-327.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 15450). Second best hit was smallRNA (count: 1).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 57 of 400702 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-328.fq.gz
+Output:   ../trimmed_sex_eggs/E25-328_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               400702
+Reads with adapters:                 170198 (42.5%)
+Reads too short:                        140 (0.0%)
+Reads written (passing filters):     400562 (100.0%)
+Reads with poly-G/C trimmed:           7826 (2.0%)
+  Poly-G/C bases removed:             32412
+
+Report: ../trimmed_sex_eggs/E25-328.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-328.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 43582). Second best hit was Nextera (count: 21).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 139 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-333.fq.gz
+Output:   ../trimmed_sex_eggs/E25-333_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1530950
+Reads with adapters:                 658118 (43.0%)
+Reads too short:                        311 (0.0%)
+Reads written (passing filters):    1530639 (100.0%)
+Reads with poly-G/C trimmed:          29119 (1.9%)
+  Poly-G/C bases removed:            122097
+
+Report: ../trimmed_sex_eggs/E25-333.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-333.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 21663). Second best hit was Nextera (count: 15).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 114 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-334.fq.gz
+Output:   ../trimmed_sex_eggs/E25-334_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1019995
+Reads with adapters:                 415684 (40.8%)
+Reads too short:                        187 (0.0%)
+Reads written (passing filters):    1019808 (100.0%)
+Reads with poly-G/C trimmed:          19719 (1.9%)
+  Poly-G/C bases removed:             81759
+
+Report: ../trimmed_sex_eggs/E25-334.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-334.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22815). Second best hit was Nextera (count: 26).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 185 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-341.fq.gz
+Output:   ../trimmed_sex_eggs/E25-341_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13111713
+Reads with adapters:                5424980 (41.4%)
+Reads too short:                       2849 (0.0%)
+Reads written (passing filters):   13108864 (100.0%)
+Reads with poly-G/C trimmed:         250965 (1.9%)
+  Poly-G/C bases removed:           1050106
+
+Report: ../trimmed_sex_eggs/E25-341.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-341.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 17607). Second best hit was Nextera (count: 23).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 137 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-345.fq.gz
+Output:   ../trimmed_sex_eggs/E25-345_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              5908541
+Reads with adapters:                2400557 (40.6%)
+Reads too short:                       1271 (0.0%)
+Reads written (passing filters):    5907270 (100.0%)
+Reads with poly-G/C trimmed:         104843 (1.8%)
+  Poly-G/C bases removed:            437827
+
+Report: ../trimmed_sex_eggs/E25-345.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-345.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26797). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 159 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-346.fq.gz
+Output:   ../trimmed_sex_eggs/E25-346_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              8764513
+Reads with adapters:                3664218 (41.8%)
+Reads too short:                       1737 (0.0%)
+Reads written (passing filters):    8762776 (100.0%)
+Reads with poly-G/C trimmed:         162158 (1.9%)
+  Poly-G/C bases removed:            681363
+
+Report: ../trimmed_sex_eggs/E25-346.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-346.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22879). Second best hit was Nextera (count: 37).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 149 of 986959 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-349.fq.gz
+Output:   ../trimmed_sex_eggs/E25-349_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               986959
+Reads with adapters:                 405290 (41.1%)
+Reads too short:                        147 (0.0%)
+Reads written (passing filters):     986812 (100.0%)
+Reads with poly-G/C trimmed:          16925 (1.7%)
+  Poly-G/C bases removed:             71280
+
+Report: ../trimmed_sex_eggs/E25-349.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-349.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 27471). Second best hit was Nextera (count: 26).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 118 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-369.fq.gz
+Output:   ../trimmed_sex_eggs/E25-369_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              8212623
+Reads with adapters:                3425145 (41.7%)
+Reads too short:                       1722 (0.0%)
+Reads written (passing filters):    8210901 (100.0%)
+Reads with poly-G/C trimmed:         158383 (1.9%)
+  Poly-G/C bases removed:            653621
+
+Report: ../trimmed_sex_eggs/E25-369.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-369.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25718). Second best hit was Nextera (count: 30).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 175 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-378.fq.gz
+Output:   ../trimmed_sex_eggs/E25-378_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12964318
+Reads with adapters:                5320721 (41.0%)
+Reads too short:                       3408 (0.0%)
+Reads written (passing filters):   12960910 (100.0%)
+Reads with poly-G/C trimmed:         231466 (1.8%)
+  Poly-G/C bases removed:            965776
+
+Report: ../trimmed_sex_eggs/E25-378.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-378.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 27319). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 108 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-379.fq.gz
+Output:   ../trimmed_sex_eggs/E25-379_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              9727925
+Reads with adapters:                4070963 (41.8%)
+Reads too short:                       2235 (0.0%)
+Reads written (passing filters):    9725690 (100.0%)
+Reads with poly-G/C trimmed:         192959 (2.0%)
+  Poly-G/C bases removed:            789046
+
+Report: ../trimmed_sex_eggs/E25-379.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-379.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 32656). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 178 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-380.fq.gz
+Output:   ../trimmed_sex_eggs/E25-380_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6082728
+Reads with adapters:                2549091 (41.9%)
+Reads too short:                       1695 (0.0%)
+Reads written (passing filters):    6081033 (100.0%)
+Reads with poly-G/C trimmed:         107851 (1.8%)
+  Poly-G/C bases removed:            452991
+
+Report: ../trimmed_sex_eggs/E25-380.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-380.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 31566). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 147 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-383.fq.gz
+Output:   ../trimmed_sex_eggs/E25-383_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              4147105
+Reads with adapters:                1768830 (42.7%)
+Reads too short:                        881 (0.0%)
+Reads written (passing filters):    4146224 (100.0%)
+Reads with poly-G/C trimmed:          73734 (1.8%)
+  Poly-G/C bases removed:            310119
+
+Report: ../trimmed_sex_eggs/E25-383.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-383.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 33489). Second best hit was Nextera (count: 31).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 118 of 856731 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-387.fq.gz
+Output:   ../trimmed_sex_eggs/E25-387_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               856731
+Reads with adapters:                 363003 (42.4%)
+Reads too short:                        145 (0.0%)
+Reads written (passing filters):     856586 (100.0%)
+Reads with poly-G/C trimmed:          14433 (1.7%)
+  Poly-G/C bases removed:             60970
+
+Report: ../trimmed_sex_eggs/E25-387.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-387.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 6271). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: not enabled (auto-detection found 21 of 236207 reads (0.01%) with poly-G tails — below threshold). To force-enable: --poly_g
+Trimming: E25-388.fq.gz
+Output:   ../trimmed_sex_eggs/E25-388_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               236207
+Reads with adapters:                  98455 (41.7%)
+Reads too short:                         73 (0.0%)
+Reads written (passing filters):     236134 (100.0%)
+
+Report: ../trimmed_sex_eggs/E25-388.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-388.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 31133). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 157 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-401.fq.gz
+Output:   ../trimmed_sex_eggs/E25-401_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12920955
+Reads with adapters:                5466584 (42.3%)
+Reads too short:                       2409 (0.0%)
+Reads written (passing filters):   12918546 (100.0%)
+Reads with poly-G/C trimmed:         237827 (1.8%)
+  Poly-G/C bases removed:           1001207
+
+Report: ../trimmed_sex_eggs/E25-401.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-401.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 18513). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 172 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-402.fq.gz
+Output:   ../trimmed_sex_eggs/E25-402_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             15877108
+Reads with adapters:                6559610 (41.3%)
+Reads too short:                       2843 (0.0%)
+Reads written (passing filters):   15874265 (100.0%)
+Reads with poly-G/C trimmed:         294424 (1.9%)
+  Poly-G/C bases removed:           1227047
+
+Report: ../trimmed_sex_eggs/E25-402.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-402.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 27692). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 103 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-409.fq.gz
+Output:   ../trimmed_sex_eggs/E25-409_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1342785
+Reads with adapters:                 557453 (41.5%)
+Reads too short:                        395 (0.0%)
+Reads written (passing filters):    1342390 (100.0%)
+Reads with poly-G/C trimmed:          26783 (2.0%)
+  Poly-G/C bases removed:            108689
+
+Report: ../trimmed_sex_eggs/E25-409.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-409.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 21480). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 149 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-422.fq.gz
+Output:   ../trimmed_sex_eggs/E25-422_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12343547
+Reads with adapters:                5073374 (41.1%)
+Reads too short:                       1794 (0.0%)
+Reads written (passing filters):   12341753 (100.0%)
+Reads with poly-G/C trimmed:         225593 (1.8%)
+  Poly-G/C bases removed:            940188
+
+Report: ../trimmed_sex_eggs/E25-422.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-422.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 30306). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 126 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-425.fq.gz
+Output:   ../trimmed_sex_eggs/E25-425_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3000562
+Reads with adapters:                1279171 (42.6%)
+Reads too short:                        565 (0.0%)
+Reads written (passing filters):    2999997 (100.0%)
+Reads with poly-G/C trimmed:          53801 (1.8%)
+  Poly-G/C bases removed:            222471
+
+Report: ../trimmed_sex_eggs/E25-425.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-425.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25344). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 125 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-426.fq.gz
+Output:   ../trimmed_sex_eggs/E25-426_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12655998
+Reads with adapters:                5229593 (41.3%)
+Reads too short:                       2617 (0.0%)
+Reads written (passing filters):   12653381 (100.0%)
+Reads with poly-G/C trimmed:         250857 (2.0%)
+  Poly-G/C bases removed:           1036056
+
+Report: ../trimmed_sex_eggs/E25-426.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-426.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 20234). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 131 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-439.fq.gz
+Output:   ../trimmed_sex_eggs/E25-439_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              8206320
+Reads with adapters:                3378454 (41.2%)
+Reads too short:                       1857 (0.0%)
+Reads written (passing filters):    8204463 (100.0%)
+Reads with poly-G/C trimmed:         155037 (1.9%)
+  Poly-G/C bases removed:            645940
+
+Report: ../trimmed_sex_eggs/E25-439.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-439.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 36659). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 136 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-440.fq.gz
+Output:   ../trimmed_sex_eggs/E25-440_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              8137016
+Reads with adapters:                3433031 (42.2%)
+Reads too short:                       2341 (0.0%)
+Reads written (passing filters):    8134675 (100.0%)
+Reads with poly-G/C trimmed:         153963 (1.9%)
+  Poly-G/C bases removed:            647470
+
+Report: ../trimmed_sex_eggs/E25-440.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-440.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26603). Second best hit was Nextera (count: 25).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 154 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-443.fq.gz
+Output:   ../trimmed_sex_eggs/E25-443_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3261028
+Reads with adapters:                1352837 (41.5%)
+Reads too short:                        529 (0.0%)
+Reads written (passing filters):    3260499 (100.0%)
+Reads with poly-G/C trimmed:          57782 (1.8%)
+  Poly-G/C bases removed:            239550
+
+Report: ../trimmed_sex_eggs/E25-443.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-443.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 37837). Second best hit was Nextera (count: 23).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 161 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-444.fq.gz
+Output:   ../trimmed_sex_eggs/E25-444_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             15055043
+Reads with adapters:                6541794 (43.5%)
+Reads too short:                       4260 (0.0%)
+Reads written (passing filters):   15050783 (100.0%)
+Reads with poly-G/C trimmed:         268725 (1.8%)
+  Poly-G/C bases removed:           1128057
+
+Report: ../trimmed_sex_eggs/E25-444.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-444.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25091). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 166 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-449.fq.gz
+Output:   ../trimmed_sex_eggs/E25-449_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12433460
+Reads with adapters:                5129460 (41.3%)
+Reads too short:                       2398 (0.0%)
+Reads written (passing filters):   12431062 (100.0%)
+Reads with poly-G/C trimmed:         222054 (1.8%)
+  Poly-G/C bases removed:            937667
+
+Report: ../trimmed_sex_eggs/E25-449.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-449.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 12363). Second best hit was Nextera (count: 1).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 43 of 426557 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-451.fq.gz
+Output:   ../trimmed_sex_eggs/E25-451_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               426557
+Reads with adapters:                 177589 (41.6%)
+Reads too short:                         82 (0.0%)
+Reads written (passing filters):     426475 (100.0%)
+Reads with poly-G/C trimmed:           8558 (2.0%)
+  Poly-G/C bases removed:             35422
+
+Report: ../trimmed_sex_eggs/E25-451.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-451.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26660). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 137 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-472.fq.gz
+Output:   ../trimmed_sex_eggs/E25-472_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13497990
+Reads with adapters:                5579872 (41.3%)
+Reads too short:                       3005 (0.0%)
+Reads written (passing filters):   13494985 (100.0%)
+Reads with poly-G/C trimmed:         259515 (1.9%)
+  Poly-G/C bases removed:           1089996
+
+Report: ../trimmed_sex_eggs/E25-472.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-472.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 21564). Second best hit was Nextera (count: 33).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 150 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-476.fq.gz
+Output:   ../trimmed_sex_eggs/E25-476_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             18624576
+Reads with adapters:                7575355 (40.7%)
+Reads too short:                       3420 (0.0%)
+Reads written (passing filters):   18621156 (100.0%)
+Reads with poly-G/C trimmed:         343507 (1.8%)
+  Poly-G/C bases removed:           1430409
+
+Report: ../trimmed_sex_eggs/E25-476.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-476.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 23999). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 110 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-479.fq.gz
+Output:   ../trimmed_sex_eggs/E25-479_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              9937228
+Reads with adapters:                4112436 (41.4%)
+Reads too short:                       2489 (0.0%)
+Reads written (passing filters):    9934739 (100.0%)
+Reads with poly-G/C trimmed:         195385 (2.0%)
+  Poly-G/C bases removed:            806203
+
+Report: ../trimmed_sex_eggs/E25-479.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-479.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 33751). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 159 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-482.fq.gz
+Output:   ../trimmed_sex_eggs/E25-482_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6269201
+Reads with adapters:                2651045 (42.3%)
+Reads too short:                       1162 (0.0%)
+Reads written (passing filters):    6268039 (100.0%)
+Reads with poly-G/C trimmed:         109353 (1.7%)
+  Poly-G/C bases removed:            454922
+
+Report: ../trimmed_sex_eggs/E25-482.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-482.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 29101). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 124 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-485.fq.gz
+Output:   ../trimmed_sex_eggs/E25-485_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              4607930
+Reads with adapters:                1918689 (41.6%)
+Reads too short:                        870 (0.0%)
+Reads written (passing filters):    4607060 (100.0%)
+Reads with poly-G/C trimmed:          86075 (1.9%)
+  Poly-G/C bases removed:            359745
+
+Report: ../trimmed_sex_eggs/E25-485.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-485.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24894). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 125 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-486.fq.gz
+Output:   ../trimmed_sex_eggs/E25-486_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              7348110
+Reads with adapters:                3032465 (41.3%)
+Reads too short:                       2001 (0.0%)
+Reads written (passing filters):    7346109 (100.0%)
+Reads with poly-G/C trimmed:         146068 (2.0%)
+  Poly-G/C bases removed:            602149
+
+Report: ../trimmed_sex_eggs/E25-486.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-486.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24251). Second best hit was Nextera (count: 24).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 179 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-488.fq.gz
+Output:   ../trimmed_sex_eggs/E25-488_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             15195157
+Reads with adapters:                6353405 (41.8%)
+Reads too short:                       3673 (0.0%)
+Reads written (passing filters):   15191484 (100.0%)
+Reads with poly-G/C trimmed:         278248 (1.8%)
+  Poly-G/C bases removed:           1172559
+
+Report: ../trimmed_sex_eggs/E25-488.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-488.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 28706). Second best hit was Nextera (count: 18).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 123 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-500.fq.gz
+Output:   ../trimmed_sex_eggs/E25-500_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3505284
+Reads with adapters:                1516685 (43.3%)
+Reads too short:                        573 (0.0%)
+Reads written (passing filters):    3504711 (100.0%)
+Reads with poly-G/C trimmed:          59491 (1.7%)
+  Poly-G/C bases removed:            245145
+
+Report: ../trimmed_sex_eggs/E25-500.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-500.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 17771). Second best hit was Nextera (count: 11).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 122 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-501.fq.gz
+Output:   ../trimmed_sex_eggs/E25-501_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3106888
+Reads with adapters:                1294937 (41.7%)
+Reads too short:                        664 (0.0%)
+Reads written (passing filters):    3106224 (100.0%)
+Reads with poly-G/C trimmed:          52957 (1.7%)
+  Poly-G/C bases removed:            220262
+
+Report: ../trimmed_sex_eggs/E25-501.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-501.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24665). Second best hit was Nextera (count: 11).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 128 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-502.fq.gz
+Output:   ../trimmed_sex_eggs/E25-502_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1235915
+Reads with adapters:                 526066 (42.6%)
+Reads too short:                        299 (0.0%)
+Reads written (passing filters):    1235616 (100.0%)
+Reads with poly-G/C trimmed:          18488 (1.5%)
+  Poly-G/C bases removed:             77623
+
+Report: ../trimmed_sex_eggs/E25-502.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-502.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 29135). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 145 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-503.fq.gz
+Output:   ../trimmed_sex_eggs/E25-503_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6277724
+Reads with adapters:                2693949 (42.9%)
+Reads too short:                       1253 (0.0%)
+Reads written (passing filters):    6276471 (100.0%)
+Reads with poly-G/C trimmed:         104065 (1.7%)
+  Poly-G/C bases removed:            436734
+
+Report: ../trimmed_sex_eggs/E25-503.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-503.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 31169). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 182 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-505.fq.gz
+Output:   ../trimmed_sex_eggs/E25-505_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             15154769
+Reads with adapters:                6249725 (41.2%)
+Reads too short:                       3991 (0.0%)
+Reads written (passing filters):   15150778 (100.0%)
+Reads with poly-G/C trimmed:         276087 (1.8%)
+  Poly-G/C bases removed:           1155353
+
+Report: ../trimmed_sex_eggs/E25-505.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-505.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24523). Second best hit was Nextera (count: 11).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 134 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-512.fq.gz
+Output:   ../trimmed_sex_eggs/E25-512_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              3655198
+Reads with adapters:                1501262 (41.1%)
+Reads too short:                        883 (0.0%)
+Reads written (passing filters):    3654315 (100.0%)
+Reads with poly-G/C trimmed:          73677 (2.0%)
+  Poly-G/C bases removed:            303353
+
+Report: ../trimmed_sex_eggs/E25-512.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-512.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22890). Second best hit was Nextera (count: 17).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 167 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-518.fq.gz
+Output:   ../trimmed_sex_eggs/E25-518_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12763507
+Reads with adapters:                5105683 (40.0%)
+Reads too short:                       3339 (0.0%)
+Reads written (passing filters):   12760168 (100.0%)
+Reads with poly-G/C trimmed:         226694 (1.8%)
+  Poly-G/C bases removed:            945100
+
+Report: ../trimmed_sex_eggs/E25-518.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-518.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24261). Second best hit was Nextera (count: 1).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 64 of 535153 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-529.fq.gz
+Output:   ../trimmed_sex_eggs/E25-529_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:               535153
+Reads with adapters:                 232185 (43.4%)
+Reads too short:                        140 (0.0%)
+Reads written (passing filters):     535013 (100.0%)
+Reads with poly-G/C trimmed:           8898 (1.7%)
+  Poly-G/C bases removed:             35739
+
+Report: ../trimmed_sex_eggs/E25-529.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-529.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 614). Second best hit was Nextera (count: 0).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: not enabled (auto-detection found 0 of 5246 reads (0.00%) with poly-G tails — below threshold). To force-enable: --poly_g
+Trimming: E25-531.fq.gz
+Output:   ../trimmed_sex_eggs/E25-531_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:                 5246
+Reads with adapters:                   2628 (50.1%)
+Reads too short:                         11 (0.2%)
+Reads written (passing filters):       5235 (99.8%)
+
+Report: ../trimmed_sex_eggs/E25-531.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-531.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 39876). Second best hit was Nextera (count: 15).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 137 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-532.fq.gz
+Output:   ../trimmed_sex_eggs/E25-532_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             11972481
+Reads with adapters:                5254060 (43.9%)
+Reads too short:                       3028 (0.0%)
+Reads written (passing filters):   11969453 (100.0%)
+Reads with poly-G/C trimmed:         211349 (1.8%)
+  Poly-G/C bases removed:            893918
+
+Report: ../trimmed_sex_eggs/E25-532.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-532.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 22085). Second best hit was Nextera (count: 22).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 139 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-542.fq.gz
+Output:   ../trimmed_sex_eggs/E25-542_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12317871
+Reads with adapters:                5036250 (40.9%)
+Reads too short:                       2413 (0.0%)
+Reads written (passing filters):   12315458 (100.0%)
+Reads with poly-G/C trimmed:         251729 (2.0%)
+  Poly-G/C bases removed:           1043754
+
+Report: ../trimmed_sex_eggs/E25-542.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-542.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 42199). Second best hit was Nextera (count: 22).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 160 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-583.fq.gz
+Output:   ../trimmed_sex_eggs/E25-583_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13245283
+Reads with adapters:                5645042 (42.6%)
+Reads too short:                       2802 (0.0%)
+Reads written (passing filters):   13242481 (100.0%)
+Reads with poly-G/C trimmed:         230387 (1.7%)
+  Poly-G/C bases removed:            966900
+
+Report: ../trimmed_sex_eggs/E25-583.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-583.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26895). Second best hit was Nextera (count: 12).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 146 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-585.fq.gz
+Output:   ../trimmed_sex_eggs/E25-585_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             17823906
+Reads with adapters:                7386520 (41.4%)
+Reads too short:                       4150 (0.0%)
+Reads written (passing filters):   17819756 (100.0%)
+Reads with poly-G/C trimmed:         342332 (1.9%)
+  Poly-G/C bases removed:           1426423
+
+Report: ../trimmed_sex_eggs/E25-585.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-585.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 39289). Second best hit was Nextera (count: 17).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 145 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-600.fq.gz
+Output:   ../trimmed_sex_eggs/E25-600_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              1466399
+Reads with adapters:                 626702 (42.7%)
+Reads too short:                        390 (0.0%)
+Reads written (passing filters):    1466009 (100.0%)
+Reads with poly-G/C trimmed:          28759 (2.0%)
+  Poly-G/C bases removed:            119909
+
+Report: ../trimmed_sex_eggs/E25-600.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-600.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 36154). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 130 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-627.fq.gz
+Output:   ../trimmed_sex_eggs/E25-627_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14351698
+Reads with adapters:                6063225 (42.2%)
+Reads too short:                       2033 (0.0%)
+Reads written (passing filters):   14349665 (100.0%)
+Reads with poly-G/C trimmed:         269536 (1.9%)
+  Poly-G/C bases removed:           1128285
+
+Report: ../trimmed_sex_eggs/E25-627.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-627.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 43530). Second best hit was Nextera (count: 25).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 154 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-629.fq.gz
+Output:   ../trimmed_sex_eggs/E25-629_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              2132517
+Reads with adapters:                 914512 (42.9%)
+Reads too short:                        398 (0.0%)
+Reads written (passing filters):    2132119 (100.0%)
+Reads with poly-G/C trimmed:          39176 (1.8%)
+  Poly-G/C bases removed:            166726
+
+Report: ../trimmed_sex_eggs/E25-629.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-629.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 27190). Second best hit was Nextera (count: 17).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 145 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-659.fq.gz
+Output:   ../trimmed_sex_eggs/E25-659_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             18859889
+Reads with adapters:                7908759 (41.9%)
+Reads too short:                       4686 (0.0%)
+Reads written (passing filters):   18855203 (100.0%)
+Reads with poly-G/C trimmed:         352454 (1.9%)
+  Poly-G/C bases removed:           1474558
+
+Report: ../trimmed_sex_eggs/E25-659.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-659.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26094). Second best hit was Nextera (count: 15).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 148 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-667.fq.gz
+Output:   ../trimmed_sex_eggs/E25-667_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              6741070
+Reads with adapters:                2788600 (41.4%)
+Reads too short:                       1732 (0.0%)
+Reads written (passing filters):    6739338 (100.0%)
+Reads with poly-G/C trimmed:         129755 (1.9%)
+  Poly-G/C bases removed:            543424
+
+Report: ../trimmed_sex_eggs/E25-667.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-667.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26279). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 153 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-668.fq.gz
+Output:   ../trimmed_sex_eggs/E25-668_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              5438940
+Reads with adapters:                2272650 (41.8%)
+Reads too short:                       1422 (0.0%)
+Reads written (passing filters):    5437518 (100.0%)
+Reads with poly-G/C trimmed:         101855 (1.9%)
+  Poly-G/C bases removed:            426491
+
+Report: ../trimmed_sex_eggs/E25-668.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-668.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25651). Second best hit was Nextera (count: 23).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 153 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-687.fq.gz
+Output:   ../trimmed_sex_eggs/E25-687_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              7420050
+Reads with adapters:                3097630 (41.7%)
+Reads too short:                       1387 (0.0%)
+Reads written (passing filters):    7418663 (100.0%)
+Reads with poly-G/C trimmed:         138741 (1.9%)
+  Poly-G/C bases removed:            580657
+
+Report: ../trimmed_sex_eggs/E25-687.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-687.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 32063). Second best hit was Nextera (count: 28).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 124 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-688.fq.gz
+Output:   ../trimmed_sex_eggs/E25-688_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:              2535872
+Reads with adapters:                1065419 (42.0%)
+Reads too short:                        757 (0.0%)
+Reads written (passing filters):    2535115 (100.0%)
+Reads with poly-G/C trimmed:          47389 (1.9%)
+  Poly-G/C bases removed:            196983
+
+Report: ../trimmed_sex_eggs/E25-688.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-688.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 26182). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 150 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-729.fq.gz
+Output:   ../trimmed_sex_eggs/E25-729_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             31014257
+Reads with adapters:               12797802 (41.3%)
+Reads too short:                       5789 (0.0%)
+Reads written (passing filters):   31008468 (100.0%)
+Reads with poly-G/C trimmed:         591690 (1.9%)
+  Poly-G/C bases removed:           2475991
+
+Report: ../trimmed_sex_eggs/E25-729.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-729.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 46838). Second best hit was Nextera (count: 13).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 163 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-744.fq.gz
+Output:   ../trimmed_sex_eggs/E25-744_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14600448
+Reads with adapters:                6132238 (42.0%)
+Reads too short:                       3382 (0.0%)
+Reads written (passing filters):   14597066 (100.0%)
+Reads with poly-G/C trimmed:         253176 (1.7%)
+  Poly-G/C bases removed:           1049731
+
+Report: ../trimmed_sex_eggs/E25-744.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-744.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25315). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 139 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-767.fq.gz
+Output:   ../trimmed_sex_eggs/E25-767_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12741596
+Reads with adapters:                5260948 (41.3%)
+Reads too short:                       2648 (0.0%)
+Reads written (passing filters):   12738948 (100.0%)
+Reads with poly-G/C trimmed:         247127 (1.9%)
+  Poly-G/C bases removed:           1037791
+
+Report: ../trimmed_sex_eggs/E25-767.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-767.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25617). Second best hit was Nextera (count: 27).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 113 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-775.fq.gz
+Output:   ../trimmed_sex_eggs/E25-775_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             10748652
+Reads with adapters:                4465904 (41.5%)
+Reads too short:                       1918 (0.0%)
+Reads written (passing filters):   10746734 (100.0%)
+Reads with poly-G/C trimmed:         203273 (1.9%)
+  Poly-G/C bases removed:            843907
+
+Report: ../trimmed_sex_eggs/E25-775.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-775.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 24980). Second best hit was Nextera (count: 17).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 132 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-776.fq.gz
+Output:   ../trimmed_sex_eggs/E25-776_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13423223
+Reads with adapters:                5582547 (41.6%)
+Reads too short:                       3436 (0.0%)
+Reads written (passing filters):   13419787 (100.0%)
+Reads with poly-G/C trimmed:         264324 (2.0%)
+  Poly-G/C bases removed:           1091487
+
+Report: ../trimmed_sex_eggs/E25-776.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-776.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 36590). Second best hit was Nextera (count: 28).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: not enabled (auto-detection found 87 of 1000000 reads (0.01%) with poly-G tails — below threshold). To force-enable: --poly_g
+Trimming: E25-820.fq.gz
+Output:   ../trimmed_sex_eggs/E25-820_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             10523703
+Reads with adapters:                4496665 (42.7%)
+Reads too short:                       2390 (0.0%)
+Reads written (passing filters):   10521313 (100.0%)
+
+Report: ../trimmed_sex_eggs/E25-820.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-820.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 25975). Second best hit was Nextera (count: 14).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 131 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-835.fq.gz
+Output:   ../trimmed_sex_eggs/E25-835_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             13900819
+Reads with adapters:                5745724 (41.3%)
+Reads too short:                       3872 (0.0%)
+Reads written (passing filters):   13896947 (100.0%)
+Reads with poly-G/C trimmed:         276684 (2.0%)
+  Poly-G/C bases removed:           1142333
+
+Report: ../trimmed_sex_eggs/E25-835.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-835.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 45854). Second best hit was Nextera (count: 20).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 121 of 1000000 reads (0.01%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-836.fq.gz
+Output:   ../trimmed_sex_eggs/E25-836_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             17511020
+Reads with adapters:                7450925 (42.5%)
+Reads too short:                       5452 (0.0%)
+Reads written (passing filters):   17505568 (100.0%)
+Reads with poly-G/C trimmed:         347436 (2.0%)
+  Poly-G/C bases removed:           1432637
+
+Report: ../trimmed_sex_eggs/E25-836.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-836.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 19177). Second best hit was Nextera (count: 25).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 153 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-837.fq.gz
+Output:   ../trimmed_sex_eggs/E25-837_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             14502123
+Reads with adapters:                5849981 (40.3%)
+Reads too short:                       2321 (0.0%)
+Reads written (passing filters):   14499802 (100.0%)
+Reads with poly-G/C trimmed:         299653 (2.1%)
+  Poly-G/C bases removed:           1228802
+
+Report: ../trimmed_sex_eggs/E25-837.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-837.fq.gz_trimming_report.json
+
+Trim Galore v2.3.0
+unknown — linux/x86_64 — built 2026-06-27T16:23:35Z
+==================================================
+
+Using 8 worker threads (parallel trim + compress)
+Auto-detecting adapter type...
+Using Illumina adapter for trimming (count: 23960). Second best hit was Nextera (count: 16).
+Adapter: Illumina (AGATCGGAAGAGC)
+
+Poly-G trimming: ENABLED (auto-detected). 153 of 1000000 reads (0.02%) have poly-G tails (>=10bp) — consistent with 2-colour chemistry (NovaSeq/NextSeq). To disable: --no_poly_g
+Trimming: E25-848.fq.gz
+Output:   ../trimmed_sex_eggs/E25-848_trimmed.fq.gz
+
+=== Summary ===
+
+Total reads processed:             12225114
+Reads with adapters:                5061842 (41.4%)
+Reads too short:                       3004 (0.0%)
+Reads written (passing filters):   12222110 (100.0%)
+Reads with poly-G/C trimmed:         242451 (2.0%)
+  Poly-G/C bases removed:           1004593
+
+Report: ../trimmed_sex_eggs/E25-848.fq.gz_trimming_report.txt
+JSON report: ../trimmed_sex_eggs/E25-848.fq.gz_trimming_report.json
