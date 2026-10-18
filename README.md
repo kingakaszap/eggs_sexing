@@ -89,6 +89,19 @@ samtools view -h -@ 4 $bam | grep -v -e 'XA:Z:' -e 'SA:Z:' \
   ```
 - Script in [scripts/vcf_filter_timema.sh](https://github.com/kingakaszap/eggs_sexing/blob/main/scripts/vcf_filter_timema.sh)
 
+## 8) Compare coverage of X chromosome vs autosomes 
+- X = Scaffold 2 (from bacillus paper) which is refseqAccession":"NC_086331.1" from ref genome
+- run bedtools like [this](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/ID_Tdi_X.sh) script; genome_calc section. Differences: they have paired end and me single end, also they merge by lane/run here and i did it earlier.
+- Use [GenomeCoverageBed_tidier.py](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/accessory_scripts/genomeCoverageBed_tidier.py) for output (unchanged)
+- Then [Timema_cov_tidyer.py](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/accessory_scripts/Timema_cov_tidier.py) - asked Claude to adapt this script. Also changed options: keeping only scaffolds > 1m bp while they kept >1000 bp.
+- then using some of [Tim_cov_analysis.R](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/Tim_cov_analysis.R). Per egg, divide coverage of X / average coverage of non-X autosomes.
+
+## 9) Analysis of both coverage and heterozygosity in R
+- Script: [scripts/analysis.R](https://github.com/kingakaszap/eggs_sexing/blob/main/scripts/analysis.R)
+- Final df-s in [data/eggs_sex_coverage_heterozygosity.xlsx](https://github.com/kingakaszap/eggs_sexing/blob/main/data/eggs_sex_coverage_heterozygosity.xlsx)
+  and [data/eggs_sex_assigned.xlsx](https://github.com/kingakaszap/eggs_sexing/blob/main/data/eggs_sex_assigned.xlsx)
+  - Plot in [plots/coverage_and_heterozygosity.png](https://github.com/kingakaszap/eggs_sexing/blob/main/plots/coverage_and_heterozygosity.png)
+  
 
   
 
