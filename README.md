@@ -101,7 +101,7 @@ samtools view -h -@ 4 $bam | grep -v -e 'XA:Z:' -e 'SA:Z:' \
 - X = Scaffold 2 (from bacillus paper) which is refseqAccession":"NC_086331.1" from ref genome
 - run bedtools like [this](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/ID_Tdi_X.sh) script; genome_calc section. Differences: they have paired end and I have single end, also they merge by lane/run here and i did it earlier.
 - Use [GenomeCoverageBed_tidier.py](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/accessory_scripts/genomeCoverageBed_tidier.py) for output (unchanged)
-- Then [Timema_cov_tidyer.py](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/accessory_scripts/Timema_cov_tidier.py) - asked Claude to adapt this script. Also changed options: keeping only scaffolds > 1m bp while they kept >1000 bp.
+- Then [Timema_cov_tidyer.py](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/accessory_scripts/Timema_cov_tidier.py) - asked Claude to adapt this script. Also changed options: keeping only scaffolds > 1m bp while they kept >1000 bp. The adapted version is [here](https://github.com/kingakaszap/eggs_sexing/blob/main/scripts/Timema_cov_tidier_adapted.py).
 - then using some of [Tim_cov_analysis.R](https://github.com/glavanc1/Timema_facultative_partheno/blob/master/Tim_cov_analysis.R). Per egg, divide coverage of X / average coverage of autosomal scaffolds above a size threshold.
 
 ## 9) Analysis of both coverage and heterozygosity in R
